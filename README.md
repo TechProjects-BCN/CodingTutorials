@@ -4,5 +4,5 @@
 1.  Python Cheat Sheet and Tutorial:
    * https://github.com/TechProjects-BCN/CodingTutorials/blob/main/PythonBasics.ipynb
  
-3.  Arduino and Python Communication Tutorial:
+2.  Arduino and Python Communication Tutorial:
    * https://github.com/TechProjects-BCN/CodingTutorials/blob/main/ArduinoAndPythonCommunication.ipynb
